@@ -4,7 +4,7 @@ Interactive scrolling background animation built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Scrolling Background Effect](screenshot.png)
+![Scrolling Background Effect](Screenshot%20(202).png)
 
 ## 🚀 Live Demo
 
